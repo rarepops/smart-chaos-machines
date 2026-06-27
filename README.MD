@@ -123,3 +123,11 @@ For complete team collaboration details, see [Ways of Working](Documentation/Way
 4. **Set up Development Environment**: Follow technical setup instructions above
 
 _For questions about the project, architecture, or team practices, refer to the relevant documentation sections linked above._
+
+## License
+
+Copyright © 2025 Rares-Sebastian Popa.
+
+Licensed under the **PolyForm Strict License 1.0.0** — see [LICENSE.md](LICENSE.md).
+This permits noncommercial use only, with no distribution of the software or of
+changes or new works based on it.
